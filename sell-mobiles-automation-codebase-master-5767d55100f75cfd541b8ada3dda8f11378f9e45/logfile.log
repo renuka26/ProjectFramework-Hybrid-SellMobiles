@@ -1,0 +1,836 @@
+2018-09-17 10:17:57,073 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 10:17:57,075 INFO  [Log] opening chrome browser 
+2018-09-17 10:18:41,032 INFO  [Log] Entering karthick in text box 
+2018-09-17 10:18:42,383 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 10:18:43,653 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 10:18:45,133 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 10:18:46,414 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:18:47,436 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:18:53,953 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 10:18:54,944 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 10:18:55,682 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 10:18:56,953 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 10:18:58,190 INFO  [Log] Entering Chennai in text box 
+2018-09-17 10:18:59,189 INFO  [Log] Entering 534447 in text box 
+2018-09-17 10:19:00,248 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 10:19:01,086 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 10:19:01,773 INFO  [Log] Entering Disney in text box 
+2018-09-17 10:19:03,013 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 10:19:08,992 INFO  [Log] closing browser 
+2018-09-17 10:19:09,908 INFO  [Log] TEST CASE ENDED  
+2018-09-17 10:19:09,919 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 10:19:09,921 INFO  [Log] opening chrome browser 
+2018-09-17 10:20:11,859 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 10:20:11,860 INFO  [Log] opening chrome browser 
+2018-09-17 10:27:06,697 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 10:27:06,699 INFO  [Log] opening chrome browser 
+2018-09-17 10:28:30,406 INFO  [Log] Entering karthick in text box 
+2018-09-17 10:28:37,208 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 10:28:48,726 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 10:28:57,826 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 10:29:05,539 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:29:13,525 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:29:34,733 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 10:29:41,710 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 10:29:48,031 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 10:29:55,302 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 10:30:01,744 INFO  [Log] Entering Chennai in text box 
+2018-09-17 10:30:08,374 INFO  [Log] Entering 534447 in text box 
+2018-09-17 10:30:20,686 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 10:30:28,921 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 10:30:38,107 INFO  [Log] Entering Disney in text box 
+2018-09-17 10:30:45,727 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 10:31:05,346 INFO  [Log] closing browser 
+2018-09-17 10:31:14,473 INFO  [Log] TEST CASE ENDED  
+2018-09-17 10:31:14,490 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 10:31:14,490 INFO  [Log] opening chrome browser 
+2018-09-17 10:32:54,367 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 10:33:01,912 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:33:09,628 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 10:33:26,630 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 10:33:43,529 INFO  [Log] closing browser 
+2018-09-17 10:33:50,116 INFO  [Log] TEST CASE ENDED  
+2018-09-17 10:33:50,122 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 10:33:50,124 INFO  [Log] opening chrome browser 
+2018-09-17 10:34:40,979 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 10:35:16,228 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 10:35:24,374 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 10:35:41,349 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 10:35:58,112 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 10:36:14,971 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 10:36:34,334 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 10:36:54,442 INFO  [Log] closing browser 
+2018-09-17 10:37:03,828 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:23:57,855 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 11:23:57,855 INFO  [Log] opening chrome browser 
+2018-09-17 11:24:10,168 INFO  [Log] Entering karthick in text box 
+2018-09-17 11:24:10,266 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-reflect-placeholder='First Name']"}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '192.168.43.242', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58265}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: 37d39dafd6df48e711d19dcab214fb6c
+*** Element info: {Using=xpath, value=//input[@ng-reflect-placeholder='First Name']} 
+2018-09-17 11:24:10,814 INFO  [Log] closing browser 
+2018-09-17 11:24:11,895 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:24:11,903 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 11:24:11,907 INFO  [Log] opening chrome browser 
+2018-09-17 11:24:25,679 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:24:25,775 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '192.168.43.242', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58291}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: c8719d9f1b6441692ea5e34f9f0bad11
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-17 11:24:26,262 INFO  [Log] closing browser 
+2018-09-17 11:24:26,963 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:24:26,989 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 11:24:26,989 INFO  [Log] opening chrome browser 
+2018-09-17 11:24:37,714 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:24:37,782 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '192.168.43.242', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58323}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: 05b8afc378b377b423572b559baeaca3
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-17 11:24:38,235 INFO  [Log] closing browser 
+2018-09-17 11:24:38,831 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:33:03,152 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 11:33:03,152 INFO  [Log] opening chrome browser 
+2018-09-17 11:33:44,586 INFO  [Log] Entering karthick in text box 
+2018-09-17 11:33:45,843 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 11:33:46,994 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 11:33:48,086 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 11:33:49,158 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:33:50,176 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:33:56,585 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 11:33:57,711 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 11:33:58,357 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 11:33:59,536 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 11:34:00,709 INFO  [Log] Entering Chennai in text box 
+2018-09-17 11:34:01,606 INFO  [Log] Entering 534447 in text box 
+2018-09-17 11:34:02,615 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 11:34:03,453 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 11:34:04,056 INFO  [Log] Entering Disney in text box 
+2018-09-17 11:34:05,222 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 11:34:11,094 INFO  [Log] closing browser 
+2018-09-17 11:34:12,207 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:34:12,227 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 11:34:12,227 INFO  [Log] opening chrome browser 
+2018-09-17 11:35:23,149 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:35:24,815 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:35:26,105 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:35:32,056 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 11:35:37,760 INFO  [Log] closing browser 
+2018-09-17 11:35:39,020 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:35:39,030 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 11:35:39,030 INFO  [Log] opening chrome browser 
+2018-09-17 11:36:15,068 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:36:16,669 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:36:18,112 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:36:24,564 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 11:36:30,621 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 11:36:36,590 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 11:36:42,578 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 11:36:48,272 INFO  [Log] closing browser 
+2018-09-17 11:36:49,132 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:39:39,561 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 11:39:39,565 INFO  [Log] opening chrome browser 
+2018-09-17 11:44:44,421 INFO  [Log] Not able to openhttps://sellsmobiledev.azurewebsites.net/#/registertimeout
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58632}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: d69460e641d35f65aee13cb081df44ad 
+2018-09-17 11:47:03,530 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 11:47:03,530 INFO  [Log] opening chrome browser 
+2018-09-17 11:47:27,782 INFO  [Log] Entering karthick in text box 
+2018-09-17 11:47:29,161 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 11:47:30,175 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 11:47:31,192 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 11:47:32,033 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:47:32,941 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:47:39,213 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 11:47:40,213 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 11:47:40,737 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 11:47:41,871 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 11:47:42,790 INFO  [Log] Entering Chennai in text box 
+2018-09-17 11:47:43,455 INFO  [Log] Entering 534447 in text box 
+2018-09-17 11:47:44,449 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 11:47:45,197 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 11:47:45,724 INFO  [Log] Entering Disney in text box 
+2018-09-17 11:47:46,739 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 11:47:52,407 INFO  [Log] closing browser 
+2018-09-17 11:47:53,288 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:47:53,303 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 11:47:53,303 INFO  [Log] opening chrome browser 
+2018-09-17 11:48:16,218 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:48:17,823 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:48:19,332 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:48:25,304 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 11:48:31,017 INFO  [Log] closing browser 
+2018-09-17 11:48:32,009 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:48:32,009 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 11:48:32,009 INFO  [Log] opening chrome browser 
+2018-09-17 11:48:58,499 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:49:00,180 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:49:01,337 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:49:07,294 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 11:49:12,792 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 11:49:18,575 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 11:49:24,233 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 11:49:29,818 INFO  [Log] closing browser 
+2018-09-17 11:49:32,785 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:55:51,595 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 11:55:51,597 INFO  [Log] opening chrome browser 
+2018-09-17 11:56:13,336 INFO  [Log] Entering karthick in text box 
+2018-09-17 11:56:14,421 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 11:56:15,368 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 11:56:16,417 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 11:56:17,255 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:56:18,148 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:56:24,269 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 11:56:25,240 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 11:56:25,794 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 11:56:26,856 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 11:56:27,741 INFO  [Log] Entering Chennai in text box 
+2018-09-17 11:56:28,423 INFO  [Log] Entering 534447 in text box 
+2018-09-17 11:56:29,274 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 11:56:30,018 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 11:56:30,534 INFO  [Log] Entering Disney in text box 
+2018-09-17 11:56:31,458 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 11:56:37,301 INFO  [Log] closing browser 
+2018-09-17 11:56:38,154 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:56:38,170 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 11:56:38,170 INFO  [Log] opening chrome browser 
+2018-09-17 11:56:59,582 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:57:00,949 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:57:02,267 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:57:08,163 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 11:57:13,833 INFO  [Log] closing browser 
+2018-09-17 11:57:14,833 INFO  [Log] TEST CASE ENDED  
+2018-09-17 11:57:14,850 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 11:57:14,850 INFO  [Log] opening chrome browser 
+2018-09-17 11:57:38,071 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 11:57:39,467 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 11:57:40,781 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 11:57:46,777 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 11:57:52,346 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 11:57:57,979 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 11:58:03,569 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 11:58:09,152 INFO  [Log] closing browser 
+2018-09-17 11:58:09,981 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:01:22,377 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 12:01:22,377 INFO  [Log] opening chrome browser 
+2018-09-17 12:01:47,060 INFO  [Log] Entering karthick in text box 
+2018-09-17 12:01:48,710 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 12:01:50,033 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 12:01:51,318 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 12:01:52,388 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:01:53,504 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:02:00,016 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 12:02:01,161 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 12:02:01,845 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 12:02:03,318 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 12:02:04,337 INFO  [Log] Entering Chennai in text box 
+2018-09-17 12:02:05,204 INFO  [Log] Entering 534447 in text box 
+2018-09-17 12:02:06,463 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 12:02:07,277 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 12:02:07,879 INFO  [Log] Entering Disney in text box 
+2018-09-17 12:02:09,021 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 12:02:14,801 INFO  [Log] closing browser 
+2018-09-17 12:02:15,796 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:02:15,805 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 12:02:15,805 INFO  [Log] opening chrome browser 
+2018-09-17 12:02:38,428 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:02:39,903 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:02:41,223 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:02:47,173 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 12:02:52,910 INFO  [Log] closing browser 
+2018-09-17 12:02:53,911 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:02:53,911 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 12:02:53,911 INFO  [Log] opening chrome browser 
+2018-09-17 12:03:14,578 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:03:15,706 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:03:16,793 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:03:22,791 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 12:03:28,355 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 12:03:34,040 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 12:03:39,766 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 12:03:45,328 INFO  [Log] closing browser 
+2018-09-17 12:03:46,081 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:06:43,326 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 12:06:43,326 INFO  [Log] opening chrome browser 
+2018-09-17 12:07:05,020 INFO  [Log] Entering karthick in text box 
+2018-09-17 12:07:06,036 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 12:07:07,040 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 12:07:08,023 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 12:07:08,836 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:07:09,741 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:07:15,978 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 12:07:16,891 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 12:07:17,418 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 12:07:18,436 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 12:07:19,288 INFO  [Log] Entering Chennai in text box 
+2018-09-17 12:07:19,947 INFO  [Log] Entering 534447 in text box 
+2018-09-17 12:07:20,808 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 12:07:21,557 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 12:07:22,038 INFO  [Log] Entering Disney in text box 
+2018-09-17 12:07:22,980 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 12:07:28,700 INFO  [Log] closing browser 
+2018-09-17 12:07:29,535 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:07:29,547 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 12:07:29,547 INFO  [Log] opening chrome browser 
+2018-09-17 12:07:51,849 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:07:53,091 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:07:54,373 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:08:00,376 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 12:08:06,423 INFO  [Log] closing browser 
+2018-09-17 12:08:09,585 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:08:09,588 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 12:08:09,588 INFO  [Log] opening chrome browser 
+2018-09-17 12:08:30,373 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:08:31,838 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:08:33,119 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:08:39,100 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 12:08:44,636 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 12:08:50,321 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 12:08:56,181 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 12:09:01,877 INFO  [Log] closing browser 
+2018-09-17 12:09:02,643 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:26:08,615 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-17 12:26:08,617 INFO  [Log] opening chrome browser 
+2018-09-17 12:26:29,871 INFO  [Log] Entering karthick in text box 
+2018-09-17 12:26:30,990 INFO  [Log] Entering thamilarasan in text box 
+2018-09-17 12:26:31,976 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-17 12:26:32,915 INFO  [Log] Entering 9876543210 in text box 
+2018-09-17 12:26:33,727 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:26:34,636 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:26:40,787 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-17 12:26:41,679 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-17 12:26:42,188 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-17 12:26:43,428 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-17 12:26:44,204 INFO  [Log] Entering Chennai in text box 
+2018-09-17 12:26:44,870 INFO  [Log] Entering 534447 in text box 
+2018-09-17 12:26:45,831 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-17 12:26:46,522 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-17 12:26:47,018 INFO  [Log] Entering Disney in text box 
+2018-09-17 12:26:47,933 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-17 12:26:53,678 INFO  [Log] closing browser 
+2018-09-17 12:26:54,607 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:26:54,617 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-17 12:26:54,617 INFO  [Log] opening chrome browser 
+2018-09-17 12:27:16,040 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:27:17,397 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:27:18,691 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:27:24,543 INFO  [Log] counting  //label[@class='mat-checkbox-layout'] 
+2018-09-17 12:27:30,229 INFO  [Log] closing browser 
+2018-09-17 12:27:31,191 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:27:31,207 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-17 12:27:31,207 INFO  [Log] opening chrome browser 
+2018-09-17 12:27:52,058 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:27:53,392 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:27:54,564 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:28:00,518 INFO  [Log] clicking on //*[@id="product"] 
+2018-09-17 12:28:06,027 INFO  [Log] checking text //div[@id='productDescription']//div[@id='title']//h1 
+2018-09-17 12:28:11,706 INFO  [Log] clicking on //button[text()  = "Add To Cart"] 
+2018-09-17 12:28:17,302 INFO  [Log] checking text //div[@class='swal-modal']//div[@class='swal-text'] 
+2018-09-17 12:28:22,927 INFO  [Log] closing browser 
+2018-09-17 12:28:23,744 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:32:33,152 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:32:33,152 INFO  [Log] opening chrome browser 
+2018-09-17 12:32:54,988 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:33:01,492 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:33:07,885 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:33:08,581 INFO  [Log] closing browser 
+2018-09-17 12:33:09,562 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:36:19,887 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:36:19,887 INFO  [Log] opening chrome browser 
+2018-09-17 12:36:40,952 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:36:52,026 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:36:58,210 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:36:58,861 INFO  [Log] closing browser 
+2018-09-17 12:36:59,843 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:40:52,296 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:40:52,296 INFO  [Log] opening chrome browser 
+2018-09-17 12:41:15,280 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:41:21,866 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:41:28,063 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:41:28,717 INFO  [Log] closing browser 
+2018-09-17 12:41:29,717 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:44:06,506 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:44:06,523 INFO  [Log] opening chrome browser 
+2018-09-17 12:44:09,307 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:44:09,319 INFO  [Log] opening chrome browser 
+2018-09-17 12:44:29,710 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:44:32,790 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:44:36,479 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:44:39,764 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:44:43,077 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:44:43,863 INFO  [Log] closing browser 
+2018-09-17 12:44:45,007 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:44:46,229 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:44:46,939 INFO  [Log] closing browser 
+2018-09-17 12:44:48,034 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:50:57,321 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:50:57,321 INFO  [Log] opening chrome browser 
+2018-09-17 12:51:19,347 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:51:25,735 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:51:32,007 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:51:32,682 INFO  [Log] closing browser 
+2018-09-17 12:51:35,895 INFO  [Log] TEST CASE ENDED  
+2018-09-17 12:54:25,321 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 12:54:25,321 INFO  [Log] opening chrome browser 
+2018-09-17 12:55:09,469 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 12:55:16,277 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 12:55:22,936 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 12:55:23,840 INFO  [Log] closing browser 
+2018-09-17 12:55:25,056 INFO  [Log] TEST CASE ENDED  
+2018-09-17 14:29:07,394 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 14:29:07,396 INFO  [Log] opening chrome browser 
+2018-09-17 14:29:19,515 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 14:29:19,637 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '172.17.121.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50442}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.92, webStorageEnabled: true}
+Session ID: 1d50f5955ec4bc83b42dcdfff2d61a1f
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-17 14:29:20,121 INFO  [Log] closing browser 
+2018-09-17 14:29:22,975 INFO  [Log] TEST CASE ENDED  
+2018-09-17 14:31:22,380 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 14:31:22,381 INFO  [Log] opening chrome browser 
+2018-09-17 14:31:59,908 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 14:32:06,570 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 14:32:12,959 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 14:32:13,708 INFO  [Log] closing browser 
+2018-09-17 14:32:14,859 INFO  [Log] TEST CASE ENDED  
+2018-09-17 14:39:42,072 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-17 14:39:42,087 INFO  [Log] opening chrome browser 
+2018-09-17 14:40:14,799 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-17 14:40:21,598 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-17 14:40:28,245 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-17 14:40:29,173 INFO  [Log] closing browser 
+2018-09-17 14:40:30,972 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:00:20,590 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 14:00:20,594 INFO  [Log] opening chrome browser 
+2018-09-18 14:00:40,663 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:00:47,301 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:00:53,679 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:00:54,489 INFO  [Log] closing browser 
+2018-09-18 14:00:55,601 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:02:25,051 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 14:02:25,055 INFO  [Log] opening chrome browser 
+2018-09-18 14:02:46,204 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:02:52,900 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:02:59,416 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:03:00,175 INFO  [Log] closing browser 
+2018-09-18 14:03:01,137 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:09:50,579 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 14:09:50,583 INFO  [Log] opening chrome browser 
+2018-09-18 14:10:12,060 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:10:18,926 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:10:25,425 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:10:26,297 INFO  [Log] closing browser 
+2018-09-18 14:10:27,385 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:10:27,389 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-18 14:10:27,389 INFO  [Log] opening chrome browser 
+2018-09-18 14:10:50,710 INFO  [Log] Entering karthick in text box 
+2018-09-18 14:10:51,699 INFO  [Log] Entering thamilarasan in text box 
+2018-09-18 14:10:52,695 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-18 14:10:53,757 INFO  [Log] Entering 9876543210 in text box 
+2018-09-18 14:10:54,567 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:10:55,499 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:11:02,151 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-18 14:11:03,176 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-18 14:11:03,788 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-18 14:11:04,987 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-18 14:11:06,150 INFO  [Log] Entering Chennai in text box 
+2018-09-18 14:11:06,972 INFO  [Log] Entering 534447 in text box 
+2018-09-18 14:11:08,108 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-18 14:11:08,960 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-18 14:11:09,544 INFO  [Log] Entering Disney in text box 
+2018-09-18 14:11:10,607 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-18 14:11:16,470 INFO  [Log] closing browser 
+2018-09-18 14:11:17,511 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:11:17,511 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-18 14:11:17,511 INFO  [Log] opening chrome browser 
+2018-09-18 14:11:37,739 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:11:39,186 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:11:40,592 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:11:46,565 INFO  [Log] number of elements is not matching  
+2018-09-18 14:11:46,649 INFO  [Log] closing browser 
+2018-09-18 14:11:47,581 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:11:47,585 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-18 14:11:47,585 INFO  [Log] opening chrome browser 
+2018-09-18 14:12:07,981 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:12:09,494 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:12:10,824 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:12:16,757 INFO  [Log] number of elements is not matching  
+2018-09-18 14:12:16,845 INFO  [Log] closing browser 
+2018-09-18 14:12:17,721 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:12:17,721 INFO  [Log] TEST CASE STARTED TC_Display_5 
+2018-09-18 14:12:17,721 INFO  [Log] opening chrome browser 
+2018-09-18 14:12:37,405 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:12:44,123 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:12:50,313 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:12:56,314 INFO  [Log] Not able to click on //*[@id="product"]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="product"]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '192.168.43.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58999}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 7fdeafb034082d71725525f84a492258
+*** Element info: {Using=xpath, value=//*[@id="product"]} 
+2018-09-18 14:12:56,358 INFO  [Log] closing browser 
+2018-09-18 14:12:57,342 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:12:57,346 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-18 14:12:57,346 INFO  [Log] opening chrome browser 
+2018-09-18 14:13:17,826 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:13:19,391 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:13:20,850 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:13:27,187 INFO  [Log] Not able to click on //*[@id="product"]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="product"]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '192.168.43.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59040}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 7f43605196a43190ce528db6dfdf210a
+*** Element info: {Using=xpath, value=//*[@id="product"]} 
+2018-09-18 14:13:27,243 INFO  [Log] closing browser 
+2018-09-18 14:13:28,335 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:18:21,135 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 14:18:21,139 INFO  [Log] opening chrome browser 
+2018-09-18 14:18:48,913 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 14:18:55,939 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-18 14:19:02,561 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-18 14:19:03,433 INFO  [Log] closing browser 
+2018-09-18 14:19:04,650 INFO  [Log] TEST CASE ENDED  
+2018-09-18 14:19:04,659 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-18 14:19:04,660 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:02,623 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 16:06:02,625 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:06,313 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:06,314 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:06,314 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:06:06,321 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-18 16:06:06,321 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:09,285 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:09,286 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:09,286 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:06:09,289 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-18 16:06:09,289 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:12,363 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:12,364 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:12,364 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:06:12,368 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-18 16:06:12,368 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:15,356 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:15,358 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:15,359 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:06:15,362 INFO  [Log] TEST CASE STARTED TC_Display_5 
+2018-09-18 16:06:15,362 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:18,404 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:18,405 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:18,405 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:06:18,410 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-18 16:06:18,410 INFO  [Log] opening chrome browser 
+2018-09-18 16:06:21,731 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:21,733 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:06:21,733 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:07:31,033 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 16:07:31,034 INFO  [Log] opening chrome browser 
+2018-09-18 16:07:34,658 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:34,659 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:34,659 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:07:34,665 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-18 16:07:34,666 INFO  [Log] opening chrome browser 
+2018-09-18 16:07:37,613 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:37,614 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:37,614 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:07:37,618 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-18 16:07:37,619 INFO  [Log] opening chrome browser 
+2018-09-18 16:07:40,517 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:40,518 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-18 16:07:40,518 INFO  [Log] TEST CASE ENDED  
+2018-09-18 16:07:40,522 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-18 16:07:40,522 INFO  [Log] opening chrome browser 
+2018-09-18 16:07:42,391 INFO  [Log] Not able to open Browser --- unknown error: unable to discover open window in chrome
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.31 seconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '172.17.121.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: ChromeDriver 
+2018-09-18 16:08:04,428 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-18 16:08:04,429 INFO  [Log] opening chrome browser 
+2018-09-18 16:08:24,044 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-18 16:08:30,874 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-19 18:47:08,426 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-19 18:47:08,430 INFO  [Log] opening chrome browser 
+2018-09-19 18:47:29,842 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-19 18:47:36,505 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-19 18:47:43,379 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-19 18:47:44,248 INFO  [Log] closing browser 
+2018-09-19 18:47:45,476 INFO  [Log] TEST CASE ENDED  
+2018-09-19 18:47:47,491 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-19 18:47:47,492 INFO  [Log] opening chrome browser 
+2018-09-19 19:03:22,122 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-19 19:03:22,122 INFO  [Log] opening chrome browser 
+2018-09-19 19:03:26,355 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:26,355 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:26,355 INFO  [Log] TEST CASE ENDED  
+2018-09-19 19:03:28,380 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-19 19:03:28,381 INFO  [Log] opening chrome browser 
+2018-09-19 19:03:31,614 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:31,629 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:31,629 INFO  [Log] TEST CASE ENDED  
+2018-09-19 19:03:33,638 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-19 19:03:33,638 INFO  [Log] opening chrome browser 
+2018-09-19 19:03:37,174 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:37,174 INFO  [Log] Not able to set cell data .\src\main\java\com\mindtree\keywordDrivenFramework\dataEngine\DataEngine_display.xlsx (The process cannot access the file because it is being used by another process) 
+2018-09-19 19:03:37,174 INFO  [Log] TEST CASE ENDED  
+2018-09-19 19:03:39,192 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-19 19:03:39,192 INFO  [Log] opening chrome browser 
+2018-09-19 19:03:59,604 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-19 19:03:59,604 INFO  [Log] opening chrome browser 
+2018-09-19 19:04:25,849 INFO  [Log] Not able to openhttps://sellsmobile.azurewebsites.net/no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '172.17.121.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64592}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6fa59af9a9a0ff510a07449b0ea0c9c8 
+2018-09-21 11:23:09,851 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-21 11:23:09,851 INFO  [Log] opening chrome browser 
+2018-09-21 11:23:32,383 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-21 11:23:39,180 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-21 11:23:45,862 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-21 11:23:46,791 INFO  [Log] closing browser 
+2018-09-21 11:23:48,584 INFO  [Log] TEST CASE ENDED  
+2018-09-21 11:23:48,670 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-21 11:23:48,670 INFO  [Log] opening chrome browser 
+2018-09-24 15:59:09,382 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-24 15:59:09,384 INFO  [Log] opening chrome browser 
+2018-09-24 15:59:54,162 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 16:00:01,612 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 16:00:08,358 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 16:00:09,195 INFO  [Log] closing browser 
+2018-09-24 16:00:10,349 INFO  [Log] TEST CASE ENDED  
+2018-09-24 16:00:10,354 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-24 16:00:10,354 INFO  [Log] opening chrome browser 
+2018-09-24 16:00:39,054 INFO  [Log] Entering karthick in text box 
+2018-09-24 16:00:39,154 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@ng-reflect-placeholder='First Name']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63350}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbf17db5c1efbf9cc37e3bb44b9af94e
+*** Element info: {Using=xpath, value=//input[@ng-reflect-placeholder='First Name']} 
+2018-09-24 16:00:39,676 INFO  [Log] closing browser 
+2018-09-24 16:00:40,387 INFO  [Log] TEST CASE ENDED  
+2018-09-24 16:00:40,417 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-24 16:00:40,417 INFO  [Log] opening chrome browser 
+2018-09-24 16:00:51,100 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 16:00:51,163 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63434}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 31c98e383ca31ed7de245a892bc7ab62
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-24 16:00:51,616 INFO  [Log] closing browser 
+2018-09-24 16:00:52,299 INFO  [Log] TEST CASE ENDED  
+2018-09-24 16:00:52,307 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-24 16:00:52,307 INFO  [Log] opening chrome browser 
+2018-09-24 16:01:03,088 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 16:01:03,174 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63475}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 26d3c84e4295f16dc8fe48c18ce8e21e
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-24 16:01:03,619 INFO  [Log] closing browser 
+2018-09-24 16:01:04,308 INFO  [Log] TEST CASE ENDED  
+2018-09-24 16:01:04,324 INFO  [Log] TEST CASE STARTED TC_Display_5 
+2018-09-24 16:01:04,324 INFO  [Log] opening chrome browser 
+2018-09-24 16:01:13,635 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 16:01:13,712 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63509}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 797cc8478ea7927cf1059308bc335c74
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-24 16:01:14,119 INFO  [Log] closing browser 
+2018-09-24 16:01:14,724 INFO  [Log] TEST CASE ENDED  
+2018-09-24 16:01:14,743 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-24 16:01:14,744 INFO  [Log] opening chrome browser 
+2018-09-24 16:01:25,402 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 16:01:25,454 INFO  [Log] not able to enter data in text box no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='mat-input-0']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63539}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: b9423f67437937a89d6cfbb34ea4cbff
+*** Element info: {Using=xpath, value=//input[@id='mat-input-0']} 
+2018-09-24 16:01:25,899 INFO  [Log] closing browser 
+2018-09-24 16:01:26,538 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:10:39,871 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-24 22:10:39,872 INFO  [Log] opening chrome browser 
+2018-09-24 22:10:59,329 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:11:05,842 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:11:12,332 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:11:13,015 INFO  [Log] closing browser 
+2018-09-24 22:11:14,210 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:11:14,217 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-24 22:11:14,218 INFO  [Log] opening chrome browser 
+2018-09-24 22:11:33,324 INFO  [Log] Entering karthick in text box 
+2018-09-24 22:11:34,249 INFO  [Log] Entering thamilarasan in text box 
+2018-09-24 22:11:35,050 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-24 22:11:35,946 INFO  [Log] Entering 9876543210 in text box 
+2018-09-24 22:11:36,741 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:11:37,589 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:11:43,700 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-24 22:11:44,598 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-24 22:11:45,202 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-24 22:11:46,696 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-24 22:11:47,689 INFO  [Log] Entering Chennai in text box 
+2018-09-24 22:11:48,392 INFO  [Log] Entering 534447 in text box 
+2018-09-24 22:11:49,537 INFO  [Log] clicking on //div[@class='mat-select-arrow-wrapper'] 
+2018-09-24 22:11:50,329 INFO  [Log] clicking on //span[@class='mat-option-text'][1] 
+2018-09-24 22:11:50,878 INFO  [Log] Entering Disney in text box 
+2018-09-24 22:11:51,810 INFO  [Log] clicking on //span[contains(text(),'Submit')] 
+2018-09-24 22:11:57,539 INFO  [Log] closing browser 
+2018-09-24 22:11:58,452 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:11:58,454 INFO  [Log] TEST CASE STARTED TC_Display_3 
+2018-09-24 22:11:58,454 INFO  [Log] opening chrome browser 
+2018-09-24 22:12:17,720 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:12:18,999 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:12:20,200 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:12:26,105 INFO  [Log] number of elements is not matching  
+2018-09-24 22:12:26,197 INFO  [Log] closing browser 
+2018-09-24 22:12:27,119 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:12:27,141 INFO  [Log] TEST CASE STARTED TC_Display_4 
+2018-09-24 22:12:27,141 INFO  [Log] opening chrome browser 
+2018-09-24 22:12:47,687 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:12:48,993 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:12:50,098 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:12:55,879 INFO  [Log] number of elements is not matching  
+2018-09-24 22:12:55,940 INFO  [Log] closing browser 
+2018-09-24 22:12:56,768 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:12:56,773 INFO  [Log] TEST CASE STARTED TC_Display_5 
+2018-09-24 22:12:56,774 INFO  [Log] opening chrome browser 
+2018-09-24 22:13:15,157 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:13:21,270 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:13:27,282 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:13:32,979 INFO  [Log] Not able to click on //*[@id="product"]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="product"]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '172.17.121.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58991}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 27637bbf342eeb7384a2127c6d7feae5
+*** Element info: {Using=xpath, value=//*[@id="product"]} 
+2018-09-24 22:13:33,032 INFO  [Log] closing browser 
+2018-09-24 22:13:33,733 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:13:33,742 INFO  [Log] TEST CASE STARTED TC_Display_6 
+2018-09-24 22:13:33,742 INFO  [Log] opening chrome browser 
+2018-09-24 22:13:53,447 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:13:54,746 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:13:55,854 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:14:01,661 INFO  [Log] Not able to click on //*[@id="product"]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="product"]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'G1C2ML18274', ip: '172.17.121.68', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\M1047284\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59065}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a541f3fdbd16175f48f787949a1126
+*** Element info: {Using=xpath, value=//*[@id="product"]} 
+2018-09-24 22:14:01,709 INFO  [Log] closing browser 
+2018-09-24 22:14:02,645 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:16:21,546 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-24 22:16:21,548 INFO  [Log] opening chrome browser 
+2018-09-24 22:16:41,260 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:16:47,830 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:16:54,246 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:16:55,076 INFO  [Log] closing browser 
+2018-09-24 22:16:56,223 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:16:56,234 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-24 22:16:56,235 INFO  [Log] opening chrome browser 
+2018-09-24 22:17:19,898 INFO  [Log] Entering karthick in text box 
+2018-09-24 22:17:20,890 INFO  [Log] Entering thamilarasan in text box 
+2018-09-24 22:17:21,760 INFO  [Log] Entering tamilarasan1@gmail.com in text box 
+2018-09-24 22:17:22,683 INFO  [Log] Entering 9876543210 in text box 
+2018-09-24 22:17:23,498 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:17:24,585 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:17:30,864 INFO  [Log] clicking on //span[@class='mat-button-wrapper'][1] 
+2018-09-24 22:17:31,735 INFO  [Log] clicking on //td[@aria-label='September 5, 2018'] 
+2018-09-24 22:17:32,251 INFO  [Log] Entering No:3/332,Jeevanantham street, in text box 
+2018-09-24 22:17:33,356 INFO  [Log] Entering Santhosapuram in text box 
+2018-09-24 22:20:22,522 INFO  [Log] TEST CASE STARTED TC_Display_1 
+2018-09-24 22:20:22,524 INFO  [Log] opening chrome browser 
+2018-09-24 22:20:42,074 INFO  [Log] Entering Renuka.thamilarasan@mindtree.com in text box 
+2018-09-24 22:20:48,524 INFO  [Log] Entering Dhivyaa@26 in text box 
+2018-09-24 22:20:54,893 INFO  [Log] clicking on //button[@class='btn-lg mat-flat-button mat-primary']//span[text()=" Login"] 
+2018-09-24 22:20:55,575 INFO  [Log] closing browser 
+2018-09-24 22:20:56,566 INFO  [Log] TEST CASE ENDED  
+2018-09-24 22:20:56,571 INFO  [Log] TEST CASE STARTED TC_Register_2 
+2018-09-24 22:20:56,571 INFO  [Log] opening chrome browser 
